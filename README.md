@@ -2,14 +2,20 @@
 
 **Eroth Privacy And Policy**
 
-Eroth is a Discord bot designed for entertainment, featuring:
+This repository hosts the official Privacy Policy and Terms of Service for the Discord bot Eroth. 
+This document outlines how user data is handled, what content is permitted, and the legal conditions under which the bot may be used.
+This repository exists solely to provide publicly accessible, updated legal documentation for Eroth.
 
-- A collectible card game powered by MyAnimeList image scraping
-- A 16+ ecchi visuals (strictly non-explicit)
-- Economy gameplay, leveling, and inventories
-- Trading, item progression, and fun utility commands
-- Basic moderation tools such as blacklisting
-- Minimal data handling, no message storage, and GDPR-friendly practices
+**Within this repository, you will find:**
+- Eroth Privacy Policy: detailing data handling, storage limitations, user rights, and GDPR-aligned practices.
+- Eroth Terms of Service: defining allowed content, NSFW/16+ rules, user responsibilities, and bot usage conditions.
 
-This repository exists to publicly provide Eroth’s Privacy Policy and Terms of Use, required for transparency and to comply with Discord’s bot-hosting standards.
-Users, server owners, and Discord Trust & Safety can reference these documents at any time.
+**This document is required for:**
+- Compliance with Discord’s Developer ToS
+- Transparency regarding data usage
+- Informing users and server administrators of their rights and responsibilities
+- Providing Discord Trust & Safety verifiable access
+
+All content in this repository is maintained in a professional and legally consistent manner.
+
+**If you are using Eroth in your server, you agree to the terms outlined in these documents.**
